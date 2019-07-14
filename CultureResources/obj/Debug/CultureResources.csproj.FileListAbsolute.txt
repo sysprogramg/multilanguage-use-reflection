@@ -1,0 +1,29 @@
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\bin\Debug\CultureResources.dll
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\bin\Debug\CultureResources.pdb
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\bin\Debug\ES-AR\CultureResources.resources.dll
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\bin\Debug\ZH-CHS\CultureResources.resources.dll
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\obj\Debug\CultureResources.StringResources.resources
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\obj\Debug\CultureResources.StringResources.ES-AR.resources
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\obj\Debug\CultureResources.StringResources.ZH-CHS.resources
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\obj\Debug\CultureResources.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\obj\Debug\ES-AR\CultureResources.resources.dll
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\obj\Debug\ZH-CHS\CultureResources.resources.dll
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\obj\Debug\CultureResources.dll
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\obj\Debug\CultureResources.pdb
+C:\Users\User\Source\Repos\VisualCS\Poss\CultureResources\obj\Debug\CultureResources.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\bin\Debug\CultureResources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\bin\Debug\CultureResources.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\bin\Debug\ES-AR\CultureResources.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\bin\Debug\ZH-CHS\CultureResources.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\CultureResources.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\CultureResources.StringResources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\CultureResources.StringResources.ES-AR.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\CultureResources.StringResources.ZH-CHS.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\CultureResources.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\ES-AR\CultureResources.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\ZH-CHS\CultureResources.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\CultureResources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\CultureResources.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Reflection Multilanguage\CultureResources\bin\Debug\EN-US\CultureResources.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\CultureResources.StringResources.EN-US.resources
+C:\Users\User\documents\visual studio 2015\Projects\Reflection Multilanguage\CultureResources\obj\Debug\EN-US\CultureResources.resources.dll

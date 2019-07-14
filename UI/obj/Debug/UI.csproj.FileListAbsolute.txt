@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\obj\Debug\UI.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\bin\Debug\CultureResources.dll
+c:\users\user\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\bin\Debug\CultureResources.pdb
+c:\users\user\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\bin\Debug\ES-AR\CultureResources.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\bin\Debug\ZH-CHS\CultureResources.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\obj\Debug\UI.frmLogin.resources
+c:\users\user\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\obj\Debug\UI.frmError.resources
+C:\Users\User\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\bin\Debug\EN-US\CultureResources.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\bin\Debug\Reflection Translate.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\bin\Debug\Reflection Translate.exe
+C:\Users\User\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\bin\Debug\Reflection Translate.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\obj\Debug\Reflection Translate.exe
+C:\Users\User\documents\visual studio 2015\Projects\Reflection Multilanguage\UI\obj\Debug\Reflection Translate.pdb
