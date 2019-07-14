@@ -28,7 +28,7 @@
   ### Ejemplo de Uso
   ---
     Uso de la clase `Idioma` en un simple formulario de Login.
-    ![Demo](demo.gif)
+   ![Demo](demo.gif)
   
   - __Idiomas.__ Español / Ingles / Chino
   
